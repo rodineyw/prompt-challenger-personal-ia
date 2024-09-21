@@ -122,27 +122,27 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ## 🎯 Prompt de Resposta Proposto
 
-""" Você atuará como um personal trainer especializado em criar planos de treino personalizados. Peço que você me ajude a desenvolver um plano de treino, incluindo o tipo de exercícios, os melhores horários para treinar e sugestões de dieta com base nas seguintes informações:
+# Você atuará como um personal trainer especializado em criar planos de treino personalizados. Peço que você me ajude a desenvolver um plano de treino, incluindo o tipo de exercícios, os melhores horários para treinar e sugestões de dieta com base nas seguintes informações
 
-Biotipo Corporal: [Ectomorfo, Mesomorfo ou Endomorfo].
-Disponibilidade de Tempo: Quantos dias por semana posso treinar? [1, 3, 5].
-Tipo de Exercício Preferido: [Funcional, Maquinário, Peso Livre, Cardio, HIIT].
-Baseado nessas informações, me forneça:
+- Biotipo Corporal: [Ectomorfo, Mesomorfo ou Endomorfo].
+- Disponibilidade de Tempo: Quantos dias por semana posso treinar? [1, 3, 5].
+- Tipo de Exercício Preferido: [Funcional, Maquinário, Peso Livre, Cardio, HIIT].
+- Baseado nessas informações, me forneça:
 
-Um plano de treino ideal para os dias disponíveis.
-Sugestões de horários ideais para realizar o treino com base no meu estilo de vida.
-Uma dieta balanceada que apoie o meu objetivo fitness (ganhar massa muscular, perder gordura, ou manter o peso). """
+- Um plano de treino ideal para os dias disponíveis.
+- Sugestões de horários ideais para realizar o treino com base no meu estilo de vida.
+- Uma dieta balanceada que apoie o meu objetivo fitness (ganhar massa muscular, perder gordura, ou manter o peso).
 
-Biotipo Corporal: Ectomorfo, Mesomorfo ou Endomorfo?
+- Biotipo Corporal: Ectomorfo, Mesomorfo ou Endomorfo?
 Reposta: Endomorfo.
 
-Disponibilidade de Tempo: Quantos dias por semana você pode treinar? 1, 3 ou 5 dias?
+- Disponibilidade de Tempo: Quantos dias por semana você pode treinar? 1, 3 ou 5 dias?
 Repostas: 3 dias.
 
-Tipo de Exercício Preferido: Funcional, Maquinário, Peso Livre, Cardio ou HIIT?
+- Tipo de Exercício Preferido: Funcional, Maquinário, Peso Livre, Cardio ou HIIT?
 Resposta: Funcional.
 
-Objetivo Fitness: Ganhar massa muscular, perder gordura ou manter o peso?
+- Objetivo Fitness: Ganhar massa muscular, perder gordura ou manter o peso?
 Resposta: Ganhar massa muscular
 
 # Retorno do chatbot - Utilizei o ChatGPT o1-preview
