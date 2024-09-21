@@ -121,3 +121,137 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+""" Você atuará como um personal trainer especializado em criar planos de treino personalizados. Peço que você me ajude a desenvolver um plano de treino, incluindo o tipo de exercícios, os melhores horários para treinar e sugestões de dieta com base nas seguintes informações:
+
+Biotipo Corporal: [Ectomorfo, Mesomorfo ou Endomorfo].
+Disponibilidade de Tempo: Quantos dias por semana posso treinar? [1, 3, 5].
+Tipo de Exercício Preferido: [Funcional, Maquinário, Peso Livre, Cardio, HIIT].
+Baseado nessas informações, me forneça:
+
+Um plano de treino ideal para os dias disponíveis.
+Sugestões de horários ideais para realizar o treino com base no meu estilo de vida.
+Uma dieta balanceada que apoie o meu objetivo fitness (ganhar massa muscular, perder gordura, ou manter o peso). """
+
+Biotipo Corporal: Ectomorfo, Mesomorfo ou Endomorfo?
+Reposta: Endomorfo.
+
+Disponibilidade de Tempo: Quantos dias por semana você pode treinar? 1, 3 ou 5 dias?
+Repostas: 3 dias.
+
+Tipo de Exercício Preferido: Funcional, Maquinário, Peso Livre, Cardio ou HIIT?
+Resposta: Funcional.
+
+Objetivo Fitness: Ganhar massa muscular, perder gordura ou manter o peso?
+Resposta: Ganhar massa muscular
+
+# Retorno do chatbot - Utilizei o ChatGPT o1-preview
+
+Olá! Com base nas suas informações, elaborei um plano de treino funcional de 3 dias, sugestões de horários e uma dieta balanceada para ajudá-lo a ganhar massa muscular.
+
+---
+
+### **Plano de Treino Funcional de 3 Dias**
+
+**Dia 1: Parte Superior do Corpo**
+
+1. **Flexões** – 3 séries de 12 repetições
+2. **Remada Invertida** – 3 séries de 10 repetições
+3. **Prancha com Elevação de Braço** – 3 séries de 10 repetições (cada braço)
+4. **Burpees** – 3 séries de 8 repetições
+5. **Flexão Pike (para ombros)** – 3 séries de 12 repetições
+
+**Dia 2: Parte Inferior do Corpo**
+
+1. **Agachamentos** – 3 séries de 15 repetições
+2. **Afundos (Lunges)** – 3 séries de 12 repetições (cada perna)
+3. **Levantamento Terra com Kettlebell** – 3 séries de 10 repetições
+4. **Ponte de Glúteos** – 3 séries de 15 repetições
+5. **Saltos no Caixote (Box Jumps)** – 3 séries de 8 repetições
+
+**Dia 3: Corpo Inteiro e Core**
+
+1. **Swing com Kettlebell** – 3 séries de 12 repetições
+2. **Clean and Press com Kettlebell** – 3 séries de 10 repetições
+3. **Mountain Climbers** – 3 séries de 20 repetições (10 cada perna)
+4. **Russian Twists** – 3 séries de 15 repetições (cada lado)
+5. **Burpee com Salto Vertical** – 3 séries de 8 repetições
+
+**Dicas para o Treino:**
+
+- **Aquecimento:** Antes de cada sessão, faça 5-10 minutos de aquecimento, como polichinelos ou corrida leve no lugar.
+- **Alongamento:** Após o treino, alongue os principais grupos musculares trabalhados.
+- **Progressão:** À medida que ganhar força, aumente gradualmente o número de repetições ou séries.
+
+---
+
+### **Sugestões de Horários Ideais para Treinar**
+
+Para maximizar o ganho de massa muscular, é importante treinar quando você se sente mais disposto e energético. Aqui estão algumas considerações:
+
+- **Horário Matinal (6h - 9h):** Treinar pela manhã pode aumentar a energia e o foco ao longo do dia.
+- **Final da Tarde (16h - 19h):** Neste período, a temperatura corporal está mais alta, o que pode melhorar o desempenho muscular.
+- **Consistência é Chave:** Escolha horários que se encaixem melhor na sua rotina diária para garantir consistência nos treinos.
+
+---
+
+### **Dieta Balanceada para Ganho de Massa Muscular**
+
+Como um endomorfo, é importante focar em uma dieta rica em nutrientes que suporte o crescimento muscular sem acumular gordura excessiva.
+
+**Macronutrientes Diários Recomendados:**
+
+- **Proteínas:** 1,6 - 2,2 gramas por kg de peso corporal
+- **Carboidratos Complexos:** Fornecem energia sustentada
+- **Gorduras Saudáveis:** Importantes para a produção hormonal e saúde geral
+
+**Plano Alimentar Diário Exemplo:**
+
+**Café da Manhã:**
+
+- Omelete de 3 ovos com espinafre e tomate
+- 1 fatia de pão integral
+- 1 porção de frutas vermelhas (morango, amora)
+
+**Lanche da Manhã:**
+
+- Iogurte grego sem açúcar com uma colher de sopa de mel
+- Punhado de nozes ou amêndoas
+
+**Almoço:**
+
+- Peito de frango grelhado
+- Quinoa ou arroz integral
+- Salada mista com folhas verdes, cenoura e pepino
+- Azeite de oliva e limão como tempero
+
+**Lanche da Tarde:**
+
+- Shake de proteína (whey protein) com água ou leite vegetal
+- 1 banana
+
+**Jantar:**
+
+- Salmão assado ou filé de peixe
+- Batata-doce cozida ou purê de batata-doce
+- Brócolis e couve-flor no vapor
+
+**Ceia (opcional):**
+
+- Queijo cottage ou ricota com sementes de chia
+- Chá de camomila ou outro chá sem cafeína
+
+**Dicas Nutricionais Adicionais:**
+
+- **Hidratação:** Beba pelo menos 2 litros de água ao longo do dia.
+- **Refeições Frequentes:** Comer a cada 3 horas ajuda a manter o metabolismo ativo.
+- **Evite Açúcares Simples:** Reduza o consumo de doces, refrigerantes e alimentos processados.
+- **Suplementação:** Considere suplementos como creatina e BCAAs, após consultar um profissional de saúde.
+
+---
+
+### **Considerações Finais**
+
+- **Descanso:** Garanta 7-9 horas de sono por noite para recuperação muscular.
+- **Consistência:** Mantenha-se firme no plano para ver resultados ao longo do tempo.
+- **Acompanhamento Profissional:** Se possível, consulte um nutricionista e um educador físico para um acompanhamento personalizado.
