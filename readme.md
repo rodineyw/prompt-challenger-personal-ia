@@ -146,7 +146,7 @@ Resposta: Funcional.
 - Objetivo Fitness: Ganhar massa muscular, perder gordura ou manter o peso?
 Resposta: Ganhar massa muscular
 
-# Retorno do chatbot - Utilizei o ChatGPT o1-preview
+# Retorno da IA - Utilizei o ChatGPT o1-preview
 
 Olá! Com base nas suas informações, elaborei um plano de treino funcional de 3 dias, sugestões de horários e uma dieta balanceada para ajudá-lo a ganhar massa muscular.
 
