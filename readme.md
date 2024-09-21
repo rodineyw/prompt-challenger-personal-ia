@@ -122,7 +122,8 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ## 🎯 Prompt de Resposta Proposto
 
-# Você atuará como um personal trainer especializado em criar planos de treino personalizados. Peço que você me ajude a desenvolver um plano de treino, incluindo o tipo de exercícios, os melhores horários para treinar e sugestões de dieta com base nas seguintes informações
+''' Você atuará como um personal trainer especializado em criar planos de treino personalizados. Peço que você me ajude a desenvolver um plano de treino, incluindo o tipo de exercícios, os melhores horários para treinar e sugestões de dieta com base nas seguintes informações
+'''
 
 - Biotipo Corporal: [Ectomorfo, Mesomorfo ou Endomorfo].
 - Disponibilidade de Tempo: Quantos dias por semana posso treinar? [1, 3, 5].
